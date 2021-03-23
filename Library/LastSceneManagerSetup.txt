@@ -1,0 +1,4 @@
+sceneSetups:
+- path: Assets/Scenes/prototype v2/MainScene 5.unity
+  isLoaded: 1
+  isActive: 1
